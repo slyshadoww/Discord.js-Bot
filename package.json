@@ -1,0 +1,16 @@
+{
+  "name": "discordbot",
+  "version": "0.0.1",
+  "description": "Discord bot Nanami-Chan",
+  "main": "bot.js",
+  "author": "SlyShadow",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "node-fetch": "^1.7.1",
+    "node-opus": "^0.2.6",
+    "opusscript": "0.0.3",
+    "xml2js": "^0.4.17",
+    "ytdl-core": "^0.14.4"
+  }
+}
